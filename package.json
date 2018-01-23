@@ -1,6 +1,6 @@
 {
   "name": "k9-mysql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mysql driver for Node.js.",
   "main": "index.js",
   "scripts": {
