@@ -10,7 +10,7 @@
     "node",
     "mysql"
   ],
-  "author": "k9",
+  "author": "kyo3223",
   "license": "MIT",
   "dependencies": {
     "mysql": "^2.15.0"
