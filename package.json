@@ -1,6 +1,6 @@
 {
   "name": "k9-mysql",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "mysql driver for Node.js.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,10 @@
     "node",
     "mysql"
   ],
+  "repository": { 
+    "type": "git", 
+    "url": "git+https://github.com/kyo3223/k9-mysql.git" 
+  }, 
   "author": "kyo3223",
   "license": "MIT",
   "dependencies": {
